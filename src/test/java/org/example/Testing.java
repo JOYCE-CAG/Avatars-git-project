@@ -6,5 +6,6 @@ public class Testing {
         System.out.println("I MA HAVING THE TIME OF MY LIFE");
         System.out.println("I CANNOT WAIT TO GET A JOB");
         System.out.println("I CANNOT WAIT TO GET A JOB");
+        System.out.println("I WILL GET A JOB");
     }
 }
